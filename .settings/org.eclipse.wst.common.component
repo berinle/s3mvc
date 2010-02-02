@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project-modules id="moduleCoreId" project-version="1.5.0">
+  <wb-module deploy-name="s3mvc">
+    <property name="context-root" value="s3mvc"/>
+    <wb-resource deploy-path="/" source-path="src/main/webapp"/>
+    <wb-resource deploy-path="/WEB-INF/classes" source-path="src/main/java"/>
+    <wb-resource deploy-path="/WEB-INF/classes" source-path="src/main/resources"/>
+    <property name="java-output-path" value="build/classes/main"/>
+    <dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//C:/Documents and Settings/berinle/.gradle/cache/aopalliance/aopalliance/jars/aopalliance-1.0.jar">
+      <dependency-type>uses</dependency-type>
+    </dependent-module>
+    <dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//C:/Documents and Settings/berinle/.gradle/cache/commons-logging/commons-logging/jars/commons-logging-1.1.1.jar">
+      <dependency-type>uses</dependency-type>
+    </dependent-module>
+    <dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//C:/Documents and Settings/berinle/.gradle/cache/org.springframework/spring-beans/jars/spring-beans-2.5.6.SEC01.jar">
+      <dependency-type>uses</dependency-type>
+    </dependent-module>
+    <dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//C:/Documents and Settings/berinle/.gradle/cache/org.springframework/spring-context-support/jars/spring-context-support-2.5.6.SEC01.jar">
+      <dependency-type>uses</dependency-type>
+    </dependent-module>
+    <dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//C:/Documents and Settings/berinle/.gradle/cache/org.springframework/spring-context/jars/spring-context-2.5.6.SEC01.jar">
+      <dependency-type>uses</dependency-type>
+    </dependent-module>
+    <dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//C:/Documents and Settings/berinle/.gradle/cache/org.springframework/spring-core/jars/spring-core-2.5.6.SEC01.jar">
+      <dependency-type>uses</dependency-type>
+    </dependent-module>
+    <dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//C:/Documents and Settings/berinle/.gradle/cache/org.springframework/spring-web/jars/spring-web-2.5.6.SEC01.jar">
+      <dependency-type>uses</dependency-type>
+    </dependent-module>
+    <dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//C:/Documents and Settings/berinle/.gradle/cache/org.springframework/spring-webmvc/jars/spring-webmvc-2.5.6.SEC01.jar">
+      <dependency-type>uses</dependency-type>
+    </dependent-module>
+  </wb-module>
+</project-modules>

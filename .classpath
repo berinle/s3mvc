@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/berinle/.gradle/cache/aopalliance/aopalliance/jars/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/berinle/.gradle/cache/commons-logging/commons-logging/jars/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/berinle/.gradle/cache/javax.servlet/servlet-api/jars/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/berinle/.gradle/cache/org.springframework/spring-beans/jars/spring-beans-2.5.6.SEC01.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/berinle/.gradle/cache/org.springframework/spring-context-support/jars/spring-context-support-2.5.6.SEC01.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/berinle/.gradle/cache/org.springframework/spring-context/jars/spring-context-2.5.6.SEC01.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/berinle/.gradle/cache/org.springframework/spring-core/jars/spring-core-2.5.6.SEC01.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/berinle/.gradle/cache/org.springframework/spring-web/jars/spring-web-2.5.6.SEC01.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/berinle/.gradle/cache/org.springframework/spring-webmvc/jars/spring-webmvc-2.5.6.SEC01.jar"/>
+	<classpathentry kind="output" path="src/main/webapp/WEB-INF/classes"/>
+</classpath>
