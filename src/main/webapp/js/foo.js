@@ -1,3 +1,3 @@
 hello = function(){
-	console.log('hello called!!!');
+	console.log('why is this not happening now? hello called.');
 }
