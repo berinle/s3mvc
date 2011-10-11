@@ -1,6 +1,6 @@
-usePlugin 'war'
-usePlugin 'jetty'
-usePlugin 'eclipse'
+apply plugin: 'war'
+apply plugin: 'jetty'
+apply plugin: 'idea'
 
 group = "s3mvc"
 version = "1.0"
